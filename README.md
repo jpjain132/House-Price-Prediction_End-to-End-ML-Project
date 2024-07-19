@@ -1,1 +1,3 @@
 # House-Price-Prediction_End-to-End-ML-Project
+
+Created a house price prediction project utilizing correlation matrix for feature selection and evaluating models including Random Forest Regression, Linear Regression, and Decision Tree Regression. Optimized model performance through rigorous comparison and achieved accurate property price predictions, employing use of statistical analysis and predictive modeling.
